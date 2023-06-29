@@ -1,0 +1,9 @@
+input no. of players
+assign a number to each player
+choose a host
+host enter a sentence about any player
+find legth of sentence 
+compare it to the assigned numbers 
+player with least diff. recieves a task from second least diff.
+after each turn, host may choose another host
+no host can repeat until the rounds equals to the number of players
